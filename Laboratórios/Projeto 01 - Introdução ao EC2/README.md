@@ -1,6 +1,6 @@
 # 🖥️ Projeto 01 - Introdução ao Amazon EC2
 
-## Visão Geral
+## 🌐 Visão Geral
 Este é o projeto do Laboratório 01, que apresenta uma visão geral básica de como executar, redimensionar, gerenciar e monitorar uma instância do **[Amazon EC2 (Elastic Compute Cloud)](https://aws.amazon.com/pt/pm/ec2/)** - um dos pilares da **[Amazon Web Services (AWS)](https://aws.amazon.com/)** - aplicando conceitos importantes da computação em nuvem relacionados à segurança, monitoramento e gerenciamento de recursos.
 
 ## ⚙️ Arquitetura do Projeto
@@ -39,7 +39,7 @@ A solução utiliza um servidor web baseado em EC2, protegido por um Security Gr
 
 <img width="800" height="600" alt="image" src="https://media.licdn.com/dms/image/v2/D4E22AQGbRc6gxmOrRQ/feedshare-image-high-res/B4EZy_XqB7JkBU-/0/1772737175954?e=1784764800&v=beta&t=5xkR3yvfoecrw1FIxfMj6cmeN3kj7MVRB3Zwux-nHdU" />
 
-## 📚  Conclusão
+## 🏁 Conclusão
 A realização deste laboratório consolidou, na prática, os conceitos de criação e administração de servidores em nuvem. O processo permitiu configurar um ambiente funcional com controle de acesso rigoroso, monitoramento de desempenho e mecanismos de segurança contra falhas operacionais.<br>
 A experiência também evidenciou a flexibilidade e a escalabilidade da computação em nuvem, capacitando a realização de testes e ajustes dinâmicos para atender a diferentes demandas de infraestrutura de forma eficiente.
 

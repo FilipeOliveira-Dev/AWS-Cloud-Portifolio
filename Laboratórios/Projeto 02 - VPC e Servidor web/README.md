@@ -1,6 +1,6 @@
 # 🖥️ Projeto 02 - VPC e Servidor Web
 
-## Visão Geral
+## 🌐 Visão Geral
 Este é o projeto do Laboratório 02, onde usei a **[Amazon Virtual Private Cloud (VPC)](https://aws.amazon.com/pt/vpc/)** para criar a própria VPC e adicionar componentes adicionais a ela para produzir uma rede personalizada para um cliente fictício.<br>
 Também criei grupos de segurança para a instância do **[Amazon EC2 (Elastic Compute Cloud)](https://aws.amazon.com/pt/pm/ec2/)**. Em seguida, configurei e personalizei uma instância do EC2 para executar um servidor web e iniciar na VPC.
 
@@ -28,12 +28,18 @@ Entender como essas camadas se comunicam — rede, segurança e computação —
 
 ### **[Publicação no LinkedIn](https://www.linkedin.com/posts/filipeoliveiradasilva_aws-cloudcomputing-amazonvpc-activity-7436785324527181824-T9_S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAR6GdcBABiosNPcpPrXwA4Y9q4rI9ijMWI)**
 
-<img width="800" height="600" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQECiUK7eWYClw/feedshare-image-high-res/B4DZzTE11UKIAY-/0/1773067788445?e=1784764800&v=beta&t=nr4HA3Dc2NzDzd3IAVgCgwLjH98sJGoPCgTFReBorP8" />
-<img width="600" height="340" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQF6yJLKMwQwFg/feedshare-image-high-res/B4DZzTE1o_HwAU-/0/1773067787413?e=1784764800&v=beta&t=1ikEiCuSei2SCPv8PF6FwEtDBVXEUeuWxWBraF_0FZg" />
+<img width="600" height="400" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQECiUK7eWYClw/feedshare-image-high-res/B4DZzTE11UKIAY-/0/1773067788445?e=1784764800&v=beta&t=nr4HA3Dc2NzDzd3IAVgCgwLjH98sJGoPCgTFReBorP8" />
+
+--- 
+
+<img width="600" height="250" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQF6yJLKMwQwFg/feedshare-image-high-res/B4DZzTE1o_HwAU-/0/1773067787413?e=1784764800&v=beta&t=1ikEiCuSei2SCPv8PF6FwEtDBVXEUeuWxWBraF_0FZg" />
+
+--- 
+
 <img width="500" height="200" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQHSMsUgj-jfTQ/feedshare-image-high-res/B4DZzTE1jxKgAU-/0/1773067786821?e=1784764800&v=beta&t=4CUOrL2y4wVE_7bnbjzF15si9Fs_nh5hJ8g8O7qZS6U" />
 
 
-## 📚  Conclusão
+## 🏁 Conclusão
 A execução desse Laboratório solidificou a compreensão prática sobre a fundação de infraestruturas na AWS. Ao interconectar redes personalizadas via VPC, sub-redes e tabelas de rotas com o poder computacional do Amazon EC2, foi possível arquitetar um ambiente seguro, isolado e totalmente funcional para o cliente fictício.<br>
 A implementação bem-sucedida do acesso SSH via terminal do macOS e a liberação controlada do tráfego pelo Security Group demonstraram como alinhar conectividade e segurança operacional na nuvem.
 
