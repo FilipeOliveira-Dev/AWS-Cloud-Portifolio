@@ -1,19 +1,20 @@
 # ☁️ AWS Cloud Portifólio
 
 ## 👨🏻‍💻 Sobre mim
-Estou estudando Bacharel em Tecnologia da Informação pela **[UNIVESP (Universidade Virtual do Estado de São Paulo)](https://univesp.br)**, e sou aluno do programa AWS Re/Start pela **[Escola da Nuvem](https://escoladanuvem.org)** onde estou consolidando meus conhecimentos em Cloud.
+Estou estudando Bacharel em Tecnologia da Informação pela **[UNIVESP (Universidade Virtual do Estado de São Paulo)](https://univesp.br)**, e me formei pelo programa AWS Re/Start pela **[Escola da Nuvem](https://escoladanuvem.org)** (Fev/26 - Jul/26) onde consolidei meus conhecimentos em Cloud.
 
 ---
 ## 🚀 Projeto
-Estou construindo projetos práticos na AWS com foco em arquitetura, automação e alta disponibilidade, e este repositório serve para documentação técnica dos laboratórios, consolidando a implementação prática de arquiteturas robustas na **[Amazon Web Services (AWS)](https://aws.amazon.com/)**.
+Pela plataforma do Canvas, construib projetos práticos na AWS com foco em arquitetura, automação e alta disponibilidade, e este repositório serve para documentação técnica dos laboratórios, consolidando a implementação prática de arquiteturas robustas na **[Amazon Web Services (AWS)](https://aws.amazon.com/)**.
 
 ---
 
 ## 📚 Laboratórios Técnicos
 
-| Lab | Serviço Principal | Descrição Técnica | Link |
+| Lab | Projeto | Descrição Técnica | Link |
 | :--- | :--- | :--- | :---: |
-| **01** | **Lab 1** | Descrição Lab 1. | [Visualizar](./) |
+| **01** | **Introdução ao EC2** | Executar, redimensionar, gerenciar e monitorar uma instância EC2  | [Visualizar](./Laboratórios/Projeto%2001%20-%20Introdução%20ao%20EC2/README.md) |
+| **02** | **VPC e Servidor Web2** | Descrição Lab 2.  | [Visualizar](./Laboratórios/Projeto%2002%20-%20VPC%20e%20Servidor%20web/README.md) |
 
 
 
