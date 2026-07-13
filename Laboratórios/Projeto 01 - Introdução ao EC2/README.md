@@ -15,23 +15,23 @@ A solução utiliza um servidor web baseado em EC2, protegido por um Security Gr
 - Terminar a instância do EC2
 
 ## 🛠️ Implementação Prática
-### 1. Iniciar sua instância do EC2
-- Etapa 1: Nomear sua instância do EC2
-- Etapa 2: Selecionar uma imagem de máquina da Amazon (AMI)
-- Etapa 3: Selecionar um tipo de instância
-- Etapa 4: Configurar um par de chaves
-- Etapa 5: Definir as configurações de rede
-- Etapa 6: Adicionar armazenamento
-- Etapa 7: Configurar detalhes avançados
-- Etapa 8: Iniciar uma instância do EC2
-### 2. Monitorar a instância
-### 3. Atualizar o grupo de segurança e acessar o servidor web
-### 4. Redimensionar a instância: tipo de instância e volume do EBS
-- Etapa 1: Interromper a instância
-- Etapa 2: Alterar o tipo de instância
-- Etapa 3: Redimensionar o volume do EBS.
-- Etapa 4: Iniciar a instância redimensionada
-### 5. Testar a proteção contra encerramento
+> 1. <b>Iniciar sua instância do EC2</b>
+> - <i>Etapa 1: Nomear sua instância do EC2</i>
+> - <i>Etapa 2: Selecionar uma imagem de máquina da Amazon (AMI)</i>
+> - <i>Etapa 3: Selecionar um tipo de instância</i>
+> - <i>Etapa 4: Configurar um par de chaves</i>
+> - <i>Etapa 5: Definir as configurações de rede</i>
+> - <i>Etapa 6: Adicionar armazenamento</i>
+> - <i>Etapa 7: Configurar detalhes avançados</i>
+> - <i>Etapa 8: Iniciar uma instância do EC2</i>
+> 2. <b>Monitorar a instância</b>
+> 3. <b>Atualizar o grupo de segurança e acessar o servidor web</b>
+> 4. <b>Redimensionar a instância: tipo de instância e volume do EBS</b>
+> - <i>Etapa 1: Interromper a instância</i>
+> - <i>Etapa 2: Alterar o tipo de instância</i>
+> - <i>Etapa 3: Redimensionar o volume do EBS.</i>
+> - <i>Etapa 4: Iniciar a instância redimensionada</i>
+> 5. <b>Testar a proteção contra encerramento</b>
 
 ## 📸 Evidências
 

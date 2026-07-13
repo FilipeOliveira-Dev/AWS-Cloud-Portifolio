@@ -17,11 +17,11 @@ Entender como essas camadas se comunicam — rede, segurança e computação —
 
 
 ## 🛠️ Implementação Prática
-### 1. Criar a VPC
-### 2. Criar sub-redes adicionais
-### 3. Associar as sub-redes e adicione rotas.
-### 4. Criar um grupo de segurança da VPC
-### 5. Iniciar uma instância de servidor web
+> 1. <b>Criar a VPC</b>
+> 2. <b>Criar sub-redes adicionais</b>
+> 3. <b>Associar as sub-redes e adicione rotas</b>
+> 4. <b>Criar um grupo de segurança da VPC</b>
+> 5. <b>Iniciar uma instância de servidor web</b>
 
 
 ## 📸 Evidências

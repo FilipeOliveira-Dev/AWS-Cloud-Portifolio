@@ -35,13 +35,13 @@ A estrutura foi organizada da seguinte forma:
 
 
 ## 🛠️ Implementação Prática
-### 1. Criar uma política de senhas para a conta
-### 2. Explorar usuários e grupos de usuários
-### 3. Adicionar usuários a grupos
-- Etapa 1: Adicionar user-1 ao grupo S3-Support.
-- Etapa 2: Adicionar user-2 ao grupo EC2-Support
-- Etapa 3: Adicionar user-3 ao grupo EC2-Admin
-### 4. Fazer login e testar usuários
+> 1. <b>Criar uma política de senhas para a conta</b>
+> 2. <b>Explorar usuários e grupos de usuários</b>
+> 3. <b>Adicionar usuários a grupos</b>
+> - <i>Etapa 1: Adicionar user-1 ao grupo S3-Support</i>
+> - <i>Etapa 2: Adicionar user-2 ao grupo EC2-Support</i>
+> - <i>Etapa 3: Adicionar user-3 ao grupo EC2-Admin</i>
+> 4. <b>Fazer login e testar usuários</b>
 
 
 
