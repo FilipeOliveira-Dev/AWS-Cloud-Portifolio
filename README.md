@@ -16,6 +16,8 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **01** | **Introdução ao EC2** | Executar, redimensionar, gerenciar e monitorar uma instância EC2  | [Visualizar](./Laboratórios/Projeto%2001%20-%20Introdução%20ao%20EC2/README.md) |
 | **02** | **VPC e Servidor Web** | Criação de VPC e recursos, e acesso via SSH  | [Visualizar](./Laboratórios/Projeto%2002%20-%20VPC%20e%20Servidor%20web/README.md) |
 | **03** | **Introdução ao IAM** | Políticas de senhas, gerenciamento de grupos e distribuição de privilégios pelo IAM  | [Visualizar](./Laboratórios/Projeto%2003%20-%20Introdução%20ao%20IAM/README.md) |
+| **04** | **Servidor Web no RDS** | Interagir em um banco de dados RDS usando um aplicativo web | [Visualizar](./Laboratórios/Projeto%2004%20-%20Aplicação%20web%20no%20RDS/README.md) |
+| **05** | **Amazon CLI** | Instalando e Configurando o AWS CLI | [Visualizar](./Laboratórios/Projeto%2005%20-%20Instalando%20AWS%20CLI/README.md) |
 
 
 
