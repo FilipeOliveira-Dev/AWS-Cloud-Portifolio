@@ -18,6 +18,7 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **03** | **Introdução ao IAM** | Políticas de senhas, gerenciamento de grupos e distribuição de privilégios pelo IAM  | [Visualizar](./Laboratórios/Projeto%2003%20-%20Introdução%20ao%20IAM/README.md) |
 | **04** | **Servidor Web no RDS** | Interagir em um banco de dados RDS usando um aplicativo web | [Visualizar](./Laboratórios/Projeto%2004%20-%20Aplicação%20web%20no%20RDS/README.md) |
 | **05** | **Amazon CLI** | Instalando e Configurando o AWS CLI | [Visualizar](./Laboratórios/Projeto%2005%20-%20Instalando%20AWS%20CLI/README.md) |
+| **06** | **Systems Manager** | Centralizando dados operacionais e automatizando tarefas de configuração| [Visualizar](./Laboratórios/Projeto%2006%20-%20AWS%20System%20Manager/README.md) |
 
 
 
