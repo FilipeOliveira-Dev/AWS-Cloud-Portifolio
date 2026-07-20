@@ -19,6 +19,7 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **04** | **Servidor Web no RDS** | Interagir em um banco de dados RDS usando um aplicativo web | [Visualizar](./Laboratórios/Projeto%2004%20-%20Aplicação%20web%20no%20RDS/README.md) |
 | **05** | **Amazon CLI** | Instalando e Configurando o AWS CLI | [Visualizar](./Laboratórios/Projeto%2005%20-%20Instalando%20AWS%20CLI/README.md) |
 | **06** | **Systems Manager** | Centralizando dados operacionais e automatizando tarefas de configuração| [Visualizar](./Laboratórios/Projeto%2006%20-%20AWS%20System%20Manager/README.md) |
+| **07** | **Site no S3 via CLI** | Criar um Site Estático no bucket S3 via CLI | [Visualizar](./Laboratórios/Projeto%2007%20-%20Criar%20Site%20no%20S3/README.md) |
 
 
 
