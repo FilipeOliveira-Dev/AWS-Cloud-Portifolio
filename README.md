@@ -21,7 +21,8 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **06** | **Systems Manager** | Centralizando dados operacionais e automatizando tarefas de configuração| [Visualizar](./Laboratórios/Projeto%2006%20-%20AWS%20System%20Manager/README.md) |
 | **07** | **Site no S3 via CLI** | Criar um Site Estático no bucket S3 via CLI | [Visualizar](./Laboratórios/Projeto%2007%20-%20Criar%20Site%20no%20S3/README.md) |
 | **08** | **Criando Instância EC2** | Iniciar instância EC2 no console e acessar via CLI | [Visualizar](./Laboratórios/Projeto%2008%20-%20Criando%20Instância%20no%20EC2/README.md) |
-| **09** | **Auto Scaling e ELB** | Usando Auto Scaling e Elastic Load Balancer| [Visualizar](./Laboratórios/Projeto%2009%20-%20Solucionar%20Problemas%20Para%20Criar%20Instância/README.md) |
+| **09** | **Auto Scaling e ELB** | Usando Auto Scaling e Elastic Load Balancer| [Visualizar](./Laboratórios/Projeto%2009%20-%20Auto%20Scaling%20e%20ELB/README.md) |
+| **10** | **Failoer no Route 53** | Roteamento de failover do Amazon Route 53 | [Visualizar](./Laboratórios/Projeto%2010%20-%20Auto%20Scaling%20e%20ELB%20copy/README.md) |
 
 
 
