@@ -2,7 +2,8 @@
 
 
 ## 🌐 Visão Geral
-Este é o projeto do Laboratório 04, de Criar um servidor de banco de dados e interagir com o banco de dados usando um aplicativo. O objetivo prático é implementar uma arquitetura de banco de dados relacional totalmente gerenciada e escalável na nuvem, utilizando o **[Amazon RDS (Relational Database Service)](https://aws.amazon.com/pt/products/databases)**. <br>
+Este é o projeto do Laboratório 04, de Criar um servidor de banco de dados e interagir com o banco de dados usando um aplicativo. O objetivo prático é implementar uma arquitetura de banco de dados relacional totalmente gerenciada e escalável na nuvem, utilizando o **[Amazon RDS (Relational Database Service)](https://aws.amazon.com/pt/products/databases)**.
+
 Em ambientes corporativos, gerenciar servidores de banco de dados locais exige um esforço massivo com manutenção de hardware, patches de segurança, backups manuais e alta disponibilidade.
 Ao delegar essa infraestrutura para o Amazon RDS, automatizamos essas tarefas administrativas demoradas. Isso garante tolerância a falhas e capacidade redimensionável de forma econômica, permitindo focar puramente no desenvolvimento do aplicativo e nas regras de negócio.
 
@@ -40,12 +41,11 @@ Ao final do laboratório, essa será a infraestrutura:
 
 ### **[Publicação no LinkedIn](https://www.linkedin.com/posts/filipeoliveiradasilva_aws-amazonrds-cloudcomputing-activity-7437504332151033856-gg4Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAR6GdcBABiosNPcpPrXwA4Y9q4rI9ijMWI)**
 
-<img width="600" height="250" alt="image" src="https://media.licdn.com/dms/image/v2/D4E22AQEavVup-VsnSQ/feedshare-image-high-res/B4EZzdSxocJMAU-/0/1773239213170?e=1785369600&v=beta&t=LFQoWdkvI86Enp_7fT6-gm6RdyF2PPd_bZxgQef2Flg" /> 
-
 
 
 ## 🏁 Conclusão
-A conclusão deste projeto consolida o entendimento prático sobre a entrega de soluções Cloud Native robustas e seguras. A separação estrita entre a camada de aplicação (Web Server) e a camada de dados (RDS) demonstra o domínio sobre arquiteturas de múltiplas camadas (Multi-Tier Architectures).<br>
+A conclusão deste projeto consolida o entendimento prático sobre a entrega de soluções Cloud Native robustas e seguras. A separação estrita entre a camada de aplicação (Web Server) e a camada de dados (RDS) demonstra o domínio sobre arquiteturas de múltiplas camadas (Multi-Tier Architectures).
+
 Ao final do laboratório, o ecossistema comprovou estar totalmente funcional, seguro contra acessos não autorizados por meio de grupos de segurança interconectados e preparado para suportar oscilações de carga com redundância multi-zona.
 
 ---

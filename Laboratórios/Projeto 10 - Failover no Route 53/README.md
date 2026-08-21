@@ -1,8 +1,10 @@
 # 🖥️ Projeto 10 - Roteamento de failover do Amazon Route 53
 
 ## 🌐 Visão Geral
-Este laboratório prático tem como objetivo implementar uma política de roteamento com failover automático e alta disponibilidade utilizando o **[Amazon Route 53](https://aws.amazon.com/pt/route53/)** para uma aplicação web baseada na pilha LAMP.<br>
-A arquitetura distribui a carga de servidores web em instâncias Amazon EC2 provisionadas em diferentes Zonas de Disponibilidade (Multi-AZ) dentro da mesma região. Por meio da configuração de verificações de integridade (health checks) no Route 53, o DNS monitora continuamente o endpoint HTTP da instância primária.<br>
+Este laboratório prático tem como objetivo implementar uma política de roteamento com failover automático e alta disponibilidade utilizando o **[Amazon Route 53](https://aws.amazon.com/pt/route53/)** para uma aplicação web baseada na pilha LAMP.
+
+A arquitetura distribui a carga de servidores web em instâncias Amazon EC2 provisionadas em diferentes Zonas de Disponibilidade (Multi-AZ) dentro da mesma região. Por meio da configuração de verificações de integridade (health checks) no Route 53, o DNS monitora continuamente o endpoint HTTP da instância primária.
+
 Em caso de instabilidade ou falha no servidor principal, o Route 53 desvia o tráfego automaticamente para a instância secundária redundante e aciona notificações de alerta por e-mail, minimizando o tempo de inatividade (downtime) e garantindo a resiliência do serviço sem intervenção manual.
 
 
@@ -48,8 +50,9 @@ Em caso de instabilidade ou falha no servidor principal, o Route 53 desvia o tr�
 
 
 ## 🏁 Conclusão
-A conclusão deste laboratório consolida o entendimento sobre arquiteturas resilientes e tolerância a falhas na camada de rede da AWS.<br>
-Ao configurar o roteamento por failover e integrar as verificações de integridade do Route 53 aos mecanismos de notificação, estabelece-se um fluxo automatizado de recuperação de desastres (disaster recovery) em nível de DNS.<br>
+A conclusão deste laboratório consolida o entendimento sobre arquiteturas resilientes e tolerância a falhas na camada de rede da AWS.
+Ao configurar o roteamento por failover e integrar as verificações de integridade do Route 53 aos mecanismos de notificação, estabelece-se um fluxo automatizado de recuperação de desastres (disaster recovery) em nível de DNS.
+
 Essa implementação garante a continuidade operacional da aplicação web mesmo diante de indisponibilidades em uma Zona de Disponibilidade inteira, refletindo os padrões de alta disponibilidade exigidos em ambientes de produção corporativos.
 
 

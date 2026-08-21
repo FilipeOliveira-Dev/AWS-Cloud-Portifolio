@@ -3,7 +3,8 @@
 
 ## 🌐 Visão Geral
 Este é o projeto do Laboratório 05, que aborda a instalação, configuração e operação da **[AWS CLI (Command Line Interface)](https://aws.amazon.com/pt/cli/?nc2=type_a)** em um ambiente Linux Red Hat Enterprise Linux (RHEL) provisionado na AWS.
-Diferente de distribuições como o Amazon Linux, o RHEL não traz a interface de linha de comando da AWS pré-instalada, simulando um cenário real de migração ou configuração de servidores limpos (On-Premises ou Cloud).<br>
+Diferente de distribuições como o Amazon Linux, o RHEL não traz a interface de linha de comando da AWS pré-instalada, simulando um cenário real de migração ou configuração de servidores limpos (On-Premises ou Cloud).
+
 A atividade foca na eliminação da dependência da interface gráfica (Console de Gerenciamento), estabelecendo uma conexão segura via SSH para configurar chaves de acesso programáticas (Access Key ID e Secret Access Key) e gerenciar recursos de segurança e governança de forma automatizada e escalável.
 
 
@@ -50,7 +51,8 @@ A implementação seguiu um fluxo lógico de administração de sistemas e geren
 
 ## 🏁 Conclusão
 A conclusão deste laboratório consolida uma das habilidades mais críticas para a cultura DevOps: a operação puramente via terminal e automação de comandos.
-A capacidade de extrair artefatos de infraestrutura, como políticas do IAM em formato JSON sem interagir com o console visual, prepara a base para a criação de scripts de automação (Shell Scripting/Python) e auditorias de conformidade de segurança em larga escala. <br>
+A capacidade de extrair artefatos de infraestrutura, como políticas do IAM em formato JSON sem interagir com o console visual, prepara a base para a criação de scripts de automação (Shell Scripting/Python) e auditorias de conformidade de segurança em larga escala.
+
 O sucesso no desafio prático comprova o domínio sobre a documentação oficial da AWS CLI e reforça o entendimento sobre autenticação programática e o ciclo de vida de políticas de segurança como código.
 
 ---

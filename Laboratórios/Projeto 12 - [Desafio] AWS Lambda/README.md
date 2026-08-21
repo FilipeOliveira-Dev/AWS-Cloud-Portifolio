@@ -3,8 +3,10 @@
 ## 🌐 Visão Geral
 
 Esse laboratório de desafio tem como objetivo implementar uma arquitetura orientada a eventos (Event-Driven Architecture) totalmente sem servidor utilizando o AWS Lambda, o Amazon S3 e o Amazon SNS.
-A solução automatiza o processamento assíncrono de dados: sempre que um novo arquivo de texto é enviado a um bucket do Amazon S3, o evento de upload (s3:ObjectCreated:*) dispara automaticamente uma função Lambda em Python.<br>
-A função executa a leitura do objeto, calcula a contagem total de palavras no texto e publica a mensagem formatada em um tópico do Amazon SNS, entregando os resultados diretamente por e-mail aos destinatários configurados.<br>
+A solução automatiza o processamento assíncrono de dados: sempre que um novo arquivo de texto é enviado a um bucket do Amazon S3, o evento de upload (s3:ObjectCreated:*) dispara automaticamente uma função Lambda em Python.
+
+A função executa a leitura do objeto, calcula a contagem total de palavras no texto e publica a mensagem formatada em um tópico do Amazon SNS, entregando os resultados diretamente por e-mail aos destinatários configurados.
+
 A atividade enfatiza a integração nativa entre serviços de armazenamento, computação serverless e mensageria, utilizando políticas de privilégio mínimo e perfis do AWS IAM para governança segura dos recursos.
 
 
@@ -36,7 +38,8 @@ A atividade enfatiza a integração nativa entre serviços de armazenamento, com
 
 
 ## 🏁 Conclusão
-A conclusão deste desafio consolida o domínio sobre o desacoplamento de serviços e o processamento de dados sob demanda na nuvem sem necessidade de gerenciar instâncias ou servidores ativos.<br>
+A conclusão deste desafio consolida o domínio sobre o desacoplamento de serviços e o processamento de dados sob demanda na nuvem sem necessidade de gerenciar instâncias ou servidores ativos.
+
 Ao integrar o acionamento automático do S3 com a lógica do AWS Lambda e as notificações do Amazon SNS, valida-se na prática o padrão moderno de arquiteturas reativas em tempo real. Essa abordagem demonstra eficiência de custos — já que a computação só é tarifada durante os milissegundos de execução do script —, além de alta escalabilidade e resiliência operacional para fluxos de trabalho e pipelines de ingestão de dados em ambientes de produção corporativos.
 
 

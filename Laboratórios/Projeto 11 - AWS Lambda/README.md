@@ -1,7 +1,8 @@
 # 🖥️ Projeto 11 - AWS Lambda
 
 ## 🌐 Visão Geral
-Neste laboratório, nós implantamos e configuramos uma solução de computação sem servidor baseada no **[AWS Lambda](https://aws.amazon.com/pt/pm/lambda/)**. A função do Lambda vai gerar um relatório de análise de vendas, extraindo dados de um banco de dados e enviando os resultados diariamente.<br>
+Neste laboratório, nós implantamos e configuramos uma solução de computação sem servidor baseada no **[AWS Lambda](https://aws.amazon.com/pt/pm/lambda/)**. A função do Lambda vai gerar um relatório de análise de vendas, extraindo dados de um banco de dados e enviando os resultados diariamente.
+
 As informações de conexão do banco de dados são armazenadas no armazenamento de parâmetros, um recurso do **[AWS Systems Manager](https://aws.amazon.com/pt/systems-manager/)**. O próprio banco de dados é executado em uma instância do Linux do Amazon Elastic Compute Cloud (Amazon EC2) **[Amazon Elastic Compute Cloud (Amazon EC2)](https://aws.amazon.com/pt/pm/ec2/)**, do Apache, do MySQL e do PHP (LAMP).
 
 
@@ -59,7 +60,8 @@ As informações de conexão do banco de dados são armazenadas no armazenamento
 
 
 ## 🏁 Conclusão
-A conclusão desta atividade valida o domínio sobre arquiteturas serverless modulares e padrões de automação operacional (SysOps/DevOps) na AWS.<br>
+A conclusão desta atividade valida o domínio sobre arquiteturas serverless modulares e padrões de automação operacional (SysOps/DevOps) na AWS.
+
 A implementação comprova como conectar serviços sem servidor a recursos tradicionais de computação e banco de dados de maneira segura, desacoplada e sem sobrecarga administrativa de servidores. Além disso, a configuração de camadas do Lambda para bibliotecas externas, a orquestração por agendamento cron e o uso do CloudWatch Logs para diagnóstico de execução preparam uma base sólida para criar pipelines eficientes de processamento de dados e alertas em ambientes de produção corporativos.
 
 

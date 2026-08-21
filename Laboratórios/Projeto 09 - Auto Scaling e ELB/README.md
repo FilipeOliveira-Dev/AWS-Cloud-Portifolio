@@ -2,7 +2,8 @@
 
 
 ## 🌐 Visão Geral
-Neste laboratório, usamos a **[AWS CLI (Command Line Interface)](https://aws.amazon.com/pt/cli/)** para criar uma instância do **[Amazon EC2](https://aws.amazon.com/pt/pm/ec2/)** para hospedar um servidor da web e criar uma imagem de máquina da Amazon (AMI) por meio dessa instância. Depois, usamos essa AMI como base para iniciar um sistema que seja dimensionado automaticamente sob uma carga variável usando o Amazon EC2 Auto Scaling.<br>
+Neste laboratório, usamos a **[AWS CLI (Command Line Interface)](https://aws.amazon.com/pt/cli/)** para criar uma instância do **[Amazon EC2](https://aws.amazon.com/pt/pm/ec2/)** para hospedar um servidor da web e criar uma imagem de máquina da Amazon (AMI) por meio dessa instância. Depois, usamos essa AMI como base para iniciar um sistema que seja dimensionado automaticamente sob uma carga variável usando o Amazon EC2 Auto Scaling.
+
 Também criamo um Elastic Load Balancer para distribuir a carga por instâncias do EC2 criadas em várias Zonas de Disponibilidade pela configuração do Auto Scaling. 
 
 
@@ -51,8 +52,10 @@ Também criamo um Elastic Load Balancer para distribuir a carga por instâncias 
 
 
 ## 🏁 Conclusão
-A conclusão deste laboratório, nos mostrou conceitos fundamentais de infraestrutura como código (IaC) e arquitetura resiliente na AWS. Ao utilizar a AWS CLI, automatizamos a criação e o provisionamento de recursos, eliminando dependências da interface gráfica e garantindo maior precisão na implantação.<br>
-A construção da AMI personalizada a partir de uma instância EC2 base permitiu padronizar o ambiente do servidor web. Essa imagem serviu como modelo exato para que o Amazon EC2 Auto Scaling pudesse provisionar novas instâncias de forma homogênea e rápida, respondendo automaticamente a variações de tráfego e otimizando custos.<br>
+A conclusão deste laboratório, nos mostrou conceitos fundamentais de infraestrutura como código (IaC) e arquitetura resiliente na AWS. Ao utilizar a AWS CLI, automatizamos a criação e o provisionamento de recursos, eliminando dependências da interface gráfica e garantindo maior precisão na implantação.
+
+A construção da AMI personalizada a partir de uma instância EC2 base permitiu padronizar o ambiente do servidor web. Essa imagem serviu como modelo exato para que o Amazon EC2 Auto Scaling pudesse provisionar novas instâncias de forma homogênea e rápida, respondendo automaticamente a variações de tráfego e otimizando custos.
+
 Por fim, a integração com o Application Load Balancer (ALB) garantiu alta disponibilidade e tolerância a falhas, distribuindo o tráfego de maneira eficiente entre múltiplas Zonas de Disponibilidade. O ambiente resultante é uma solução escalável, autorregenerável e pronta para suportar demandas variáveis de produção com alta performance.
 
 

@@ -1,7 +1,8 @@
 # 🖥️ Projeto 02 - VPC e Servidor Web
 
 ## 🌐 Visão Geral
-Este é o projeto do Laboratório 02, onde usei a **[Amazon Virtual Private Cloud (VPC)](https://aws.amazon.com/pt/vpc/)** para criar a própria VPC e adicionar componentes adicionais a ela para produzir uma rede personalizada para um cliente fictício.<br>
+Este é o projeto do Laboratório 02, onde usei a **[Amazon Virtual Private Cloud (VPC)](https://aws.amazon.com/pt/vpc/)** para criar a própria VPC e adicionar componentes adicionais a ela para produzir uma rede personalizada para um cliente fictício.
+
 Também criei grupos de segurança para a instância do **[Amazon EC2 (Elastic Compute Cloud)](https://aws.amazon.com/pt/pm/ec2/)**. Em seguida, configurei e personalizei uma instância do EC2 para executar um servidor web e iniciar na VPC.
 
 ## ⚙️ Arquitetura do Projeto
@@ -40,7 +41,8 @@ Entender como essas camadas se comunicam — rede, segurança e computação —
 
 
 ## 🏁 Conclusão
-A execução desse Laboratório solidificou a compreensão prática sobre a fundação de infraestruturas na AWS. Ao interconectar redes personalizadas via VPC, sub-redes e tabelas de rotas com o poder computacional do Amazon EC2, foi possível arquitetar um ambiente seguro, isolado e totalmente funcional para o cliente fictício.<br>
+A execução desse Laboratório solidificou a compreensão prática sobre a fundação de infraestruturas na AWS. Ao interconectar redes personalizadas via VPC, sub-redes e tabelas de rotas com o poder computacional do Amazon EC2, foi possível arquitetar um ambiente seguro, isolado e totalmente funcional para o cliente fictício.
+
 A implementação bem-sucedida do acesso SSH via terminal do macOS e a liberação controlada do tráfego pelo Security Group demonstraram como alinhar conectividade e segurança operacional na nuvem.
 
 ---

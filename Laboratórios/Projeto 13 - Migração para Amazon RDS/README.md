@@ -23,9 +23,9 @@ Ao final, o endpoint da aplicação da cafeteria é reconfigurado para se conect
 > 1. <b>Gerar dados de pedidos no site da cafeteria</b>
 > 2. <b>Criar uma instância do Amazon RDS usando a AWS CLI</b>
 > - <i>Etapa 1: Conectar-se à instância CLI Host</i>
-> - <i>Etapa 1: Configurar a AWS CLI</i>
-> - <i>Etapa 1: Criar componentes obrigatórios</i>
-> - <i>Etapa 1: Criar a instância do MariaDB do Amazon RDS</i>
+> - <i>Etapa 2: Configurar a AWS CLI</i>
+> - <i>Etapa 3: Criar componentes obrigatórios</i>
+> - <i>Etapa 4: Criar a instância do MariaDB do Amazon RDS</i>
 > 3. <b>Migrar dados da aplicação para a instância do Amazon RDS</b>
 > 4. <b>Configurar o site para usar a instância do Amazon RDS</b>
 > 5. <b>Monitorar o banco de dados do Amazon RDS</b>

@@ -1,12 +1,13 @@
 # 🖥️ Projeto 03 - Introdução ao AWS IAM
 
 ## 🌐 Visão Geral
-Este é o projeto do Laboratório 03, de introdução ao **[AWS Identity and Access Management (IAM)](https://aws.amazon.com/pt/iam/)**, o serviço fundamental para o gerenciamento de identidades e controle de acesso na nuvem da AWS. <br>
+Este é o projeto do Laboratório 03, de introdução ao **[AWS Identity and Access Management (IAM)](https://aws.amazon.com/pt/iam/)**, o serviço fundamental para o gerenciamento de identidades e controle de acesso na nuvem da AWS.
+
 O objetivo principal foi compreender como mitigar riscos de segurança através da correta autenticação e autorização de identidades. Durante a prática, explorei a criação de políticas de senhas corporativas, a estrutura de usuários e grupos, e como as políticas de permissão (JSON) controlam o que cada usuário pode ou não fazer dentro do ambiente de nuvem.
 
 
 ## ⚙️ Arquitetura do Projeto
-A arquitetura deste laboratório baseia-se no **[Princípio do Privilégio Mínimo (least privilege)](https://docs.aws.amazon.com/pt_br/wellarchitected/latest/framework/sec_permissions_least_privileges.html)**, garantindo que cada identidade possua apenas o acesso estritamente necessário para desempenhar suas funções.<br>
+A arquitetura deste laboratório baseia-se no **[Princípio do Privilégio Mínimo (least privilege)](https://docs.aws.amazon.com/pt_br/wellarchitected/latest/framework/sec_permissions_least_privileges.html)**, garantindo que cada identidade possua apenas o acesso estritamente necessário para desempenhar suas funções.
 A estrutura foi organizada da seguinte forma:
 - Políticas Globais: Implementação de uma política de senhas robusta para proteger a conta contra acessos de força bruta.
 - Grupos e Permissões: Inspeção e uso de grupos de suporte e administração previamente configurados com permissões específicas para o Amazon S3 e Amazon EC2.
@@ -57,7 +58,8 @@ A estrutura foi organizada da seguinte forma:
 
 
 ## 🏁 Conclusão
-A conclusão deste laboratório consolidou a importância vital da governança de acessos em ambientes de computação em nuvem. Ao aplicar na prática a política de senhas, gerenciar grupos funcionais e associar usuários a permissões específicas do S3 e EC2, ficou evidente como o AWS IAM previne erros operacionais e vazamentos de dados causados por acessos não autorizados.<br>
+A conclusão deste laboratório consolidou a importância vital da governança de acessos em ambientes de computação em nuvem. Ao aplicar na prática a política de senhas, gerenciar grupos funcionais e associar usuários a permissões específicas do S3 e EC2, ficou evidente como o AWS IAM previne erros operacionais e vazamentos de dados causados por acessos não autorizados.
+
 Testar os efeitos reais das políticas via URL de login do IAM permitiu validar a eficácia dos privilégios atribuídos, garantindo que a infraestrutura permaneça segura, auditável e alinhada às melhores práticas de segurança da informação.
 
 ---

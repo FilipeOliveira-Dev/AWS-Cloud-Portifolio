@@ -2,8 +2,10 @@
 
 
 ## 🌐 Visão Geral
-Este laboratório prático explora dois métodos fundamentais para a criação e gerenciamento de instâncias **[Amazon EC2](https://aws.amazon.com/pt/pm/ec2/)**: a interface visual via Console de Gerenciamento da AWS e a execução de comandos programáticos através da **[AWS CLI (Command Line Interface)](https://aws.amazon.com/pt/cli/)**.<br>
-A arquitetura do projeto implementa o conceito de segurança com um Host Bastion (servidor de salto). A primeira instância é provisionada manualmente pelo console e acessada com segurança via EC2 Instance Connect (sem a necessidade de expor chaves SSH locais). A partir deste Bastion, assume-se o papel de administração via terminal para recuperar metadados de rede (Sub-redes e Security Groups) e disparar a criação automatizada do servidor web final utilizando a AWS CLI com inclusão de um script de User Data para bootstrap de aplicação.<br>
+Este laboratório prático explora dois métodos fundamentais para a criação e gerenciamento de instâncias **[Amazon EC2](https://aws.amazon.com/pt/pm/ec2/)**: a interface visual via Console de Gerenciamento da AWS e a execução de comandos programáticos através da **[AWS CLI (Command Line Interface)](https://aws.amazon.com/pt/cli/)**.
+
+A arquitetura do projeto implementa o conceito de segurança com um Host Bastion (servidor de salto). A primeira instância é provisionada manualmente pelo console e acessada com segurança via EC2 Instance Connect (sem a necessidade de expor chaves SSH locais). A partir deste Bastion, assume-se o papel de administração via terminal para recuperar metadados de rede (Sub-redes e Security Groups) e disparar a criação automatizada do servidor web final utilizando a AWS CLI com inclusão de um script de User Data para bootstrap de aplicação.
+
 A atividade reforça o critério de escolha de ferramentas no dia a dia DevOps: o Console para testes pontuais e o uso de CLI/Scripts para automações repetíveis e confiáveis de infraestrutura.
 
 
@@ -59,7 +61,8 @@ A atividade reforça o critério de escolha de ferramentas no dia a dia DevOps: 
 
 
 ## 🏁 Conclusão
-A conclusão deste laboratório consolida o domínio sobre o provisionamento híbrido de computação na AWS, combinando controle manual estratégico e automação via linha de comando.<br>
+A conclusão deste laboratório consolida o domínio sobre o provisionamento híbrido de computação na AWS, combinando controle manual estratégico e automação via linha de comando.
+
 A implementação do fluxo — desde o lançamento do Bastion via Console até o bootstrap do servidor web com dados de usuário via CLI — demonstra a compreensão sobre arquiteturas em camadas e redes isoladas. Além disso, a resolução dos desafios de conectividade e correção de pacotes do servidor web reforça habilidades essenciais de troubleshooting e administração de sistemas Linux em ambiente de nuvem, preparando a base para automações ainda mais robustas com ferramentas de Infraestrutura como Código.
 
 ---

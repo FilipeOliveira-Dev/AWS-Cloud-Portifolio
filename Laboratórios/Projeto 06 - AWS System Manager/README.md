@@ -3,7 +3,8 @@
 
 ## 🌐 Visão Geral
 Este laboratório prático do projeto 06 aborda a substituição de métodos tradicionais de administração de servidores pelo gerenciamento moderno de frotas utilizando o  **[AWS Systems Manager (SSM)](https://aws.amazon.com/pt/cli/?nc2=type_a)**.<br>
-Em infraestruturas de nuvem em larga escala, depender de acessos via SSH individual, gerenciamento manual de pares de chaves criptográficas e abertura de portas de entrada (como a porta 22) gera gargalos operacionais e sérias vulnerabilidades de segurança. <br>
+Em infraestruturas de nuvem em larga escala, depender de acessos via SSH individual, gerenciamento manual de pares de chaves criptográficas e abertura de portas de entrada (como a porta 22) gera gargalos operacionais e sérias vulnerabilidades de segurança.
+
 A atividade foca na centralização de dados operacionais e na automação de tarefas críticas de configuração, conformidade e governança. O uso do SSM elimina a necessidade de exposição direta das instâncias à internet, garantindo que a administração de frotas de servidores seja auditável, segura e altamente escalável.
 
 
@@ -57,7 +58,8 @@ A implementação da arquitetura de gerenciamento centralizado foi estruturada a
 
 ## 🏁 Conclusão
 A conclusão deste projeto consolida o domínio sobre um dos pilares mais importantes da cultura DevOps e de Engenharia de Cloud: a segurança por design e automação de operações (SysOps/DevOps).
-Ao integrar os recursos do AWS Systems Manager, o ambiente de infraestrutura atingiu um nível elevado de maturidade operacional.<br>
+Ao integrar os recursos do AWS Systems Manager, o ambiente de infraestrutura atingiu um nível elevado de maturidade operacional.
+
 A eliminação do protocolo SSH em favor do Session Manager, combinada com deploys auditáveis via Run Command e parametrização dinâmica pelo Parameter Store, prova que é possível escalar o gerenciamento de centenas de servidores mantendo um controle rígido de segurança e conformidade. Essa experiência reflete diretamente os padrões de governança exigidos em arquiteturas corporativas complexas na AWS.
 
 ---

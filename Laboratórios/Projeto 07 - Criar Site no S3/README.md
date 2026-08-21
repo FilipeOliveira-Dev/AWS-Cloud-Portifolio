@@ -2,7 +2,8 @@
 
 
 ## 🌐 Visão Geral
-Este laboratório prático aborda a utilização avançada da **[AWS CLI (Command Line Interface)](https://aws.amazon.com/pt/cli/)** a partir de uma **[instância Amazon EC2]( https://aws.amazon.com/pt/pm/ec2/)** para automatizar o provisionamento de recursos de armazenamento e segurança, culminando no deploy de um site estático.<br>
+Este laboratório prático aborda a utilização avançada da **[AWS CLI (Command Line Interface)](https://aws.amazon.com/pt/cli/)** a partir de uma **[instância Amazon EC2]( https://aws.amazon.com/pt/pm/ec2/)** para automatizar o provisionamento de recursos de armazenamento e segurança, culminando no deploy de um site estático.
+
 A atividade foca na eliminação de processos manuais via Console de Gerenciamento, demonstrando como interagir de forma puramente programática com o  **[Amazon S3](https://aws.amazon.com/pt/pm/serv-s3/Amazon)** e o **[AWS IAM](https://aws.amazon.com/pt/iam/)**. O objetivo central é capacitar o operador a configurar ambientes de hospedagem web seguros, gerenciar permissões granulares de acesso e criar scripts de automação (shell scripting) que tornam as atualizações de infraestrutura eficientes, repetíveis e integradas às práticas modernas de DevOps.
 
 
@@ -47,7 +48,8 @@ A atividade foca na eliminação de processos manuais via Console de Gerenciamen
 
 
 ## 🏁 Conclusão
-A conclusão deste laboratório consolida competências essenciais em SysOps e automação de infraestrutura. A transição bem-sucedida da administração via interface gráfica para a operação baseada em scripts demonstra o domínio sobre o ciclo de vida de recursos de nuvem.<br>
+A conclusão deste laboratório consolida competências essenciais em SysOps e automação de infraestrutura. A transição bem-sucedida da administração via interface gráfica para a operação baseada em scripts demonstra o domínio sobre o ciclo de vida de recursos de nuvem.
+
 A validação do site em produção e a capacidade de atualizar o layout da aplicação em tempo real através do arquivo em lote comprovam a eficiência da arquitetura. Além disso, a implementação do comando aws s3 sync no desafio opcional coroa o projeto com uma mentalidade voltada para a otimização de performance e recursos, preparando a base para a integração de deploys de infraestrutura em esteiras automatizadas de CI/CD.
 
 ---
