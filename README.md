@@ -23,6 +23,7 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **08** | **Criando Instância EC2** | Iniciar instância EC2 no console e acessar via CLI | [Visualizar](./Laboratórios/Projeto%2008%20-%20Criando%20Instância%20no%20EC2/README.md) |
 | **09** | **Auto Scaling e ELB** | Usando Auto Scaling e Elastic Load Balancer| [Visualizar](./Laboratórios/Projeto%2009%20-%20Auto%20Scaling%20e%20ELB/README.md) |
 | **10** | **Failoer no Route 53** | Roteamento de failover do Amazon Route 53 | [Visualizar](./Laboratórios/Projeto%2010%20-%20Auto%20Scaling%20e%20ELB%20copy/README.md) |
+| **11** | **AWS Lambda** | Solução sem servidor baseado no AWS Lambda | [Visualizar](./Laboratórios/Projeto%2011%20-%20AWS%20Lambda/README.md) |
 
 
 

@@ -14,8 +14,6 @@ Em caso de instabilidade ou falha no servidor principal, o Route 53 desvia o tr�
 
 ## 📝 Tópicos Abordados
 
-- <b>Criação de AMI personalizada:</b> Gerada a partir de uma instância EC2 para servir de base para o escalonamento.
-
 - <b>Health Checks Inteligentes:</b> Configurei verificações de saúde via HTTP que monitoram a integridade do endpoint primário em tempo real.
 - <b>Alertas Automatizados:</b> Implementei alarmes via Amazon SNS para receber notificações imediatas por e-mail caso a instância principal apresente instabilidade.
 - <b>Políticas de Roteamento de Failover:</b> Configurei registros de DNS do tipo A para instâncias primária e secundária, estabelecendo uma hierarquia de redundância.
