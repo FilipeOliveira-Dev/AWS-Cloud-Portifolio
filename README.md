@@ -25,6 +25,7 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **10** | **Failoer no Route 53** | Roteamento de failover do Amazon Route 53 | [Visualizar](./Laboratórios/Projeto%2010%20-%20Auto%20Scaling%20e%20ELB%20copy/README.md) |
 | **11** | **AWS Lambda** | Solução sem servidor baseado no AWS Lambda | [Visualizar](./Laboratórios/Projeto%2011%20-%20AWS%20Lambda/README.md) |
 | **12** | **AWS Lambda** | Função Lambda para contar o número de palavras de um arquivo de texto | [Visualizar](./Laboratórios/Projeto%2012%20-%20[Desafio]%20AWS%20Lambda/README.md) |
+| **13** | **Amazon RDS** | Migração de um aplicativo web no Amazon RDS | [Visualizar](./Laboratórios/Projeto%2013%20-%20Migração%20para%20Amazon%20RDS/README.md) |
 
 
 
