@@ -34,6 +34,7 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **19** | **Monitorando a Infraestrutura** | Monitorando a Infraestrutura com CloudWatch | [Visualizar](./Laboratórios/Projeto%2019%20-%20Monitorando%20a%20Infraestrutura/README.md) |
 | **20** | **Trabalhando com CloudTrail** | Rotina de análise de logs usando CloudTrail | [Visualizar](./Laboratórios/Projeto%2020%20-%20Trabalhando%20com%20CloudTrail/README.md) |
 | **21** | **Gerenciamento de Recursos** | Gerenciamento de Recursos com Marcação (tag) | [Visualizar](./Laboratórios/Projeto%2021%20-%20Gerenciamento%20de%20Recursos%20com%20Marcação/README.md) |
+| **22** | **Otmizando a utilização** | Otmizando recursos | [Visualizar](./Laboratórios/Projeto%2022%20-%20Otmizando%20a%20utilização/README.md) |
 
 
 
