@@ -35,6 +35,7 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **20** | **Trabalhando com CloudTrail** | Rotina de análise de logs usando CloudTrail | [Visualizar](./Laboratórios/Projeto%2020%20-%20Trabalhando%20com%20CloudTrail/README.md) |
 | **21** | **Gerenciamento de Recursos** | Gerenciamento de Recursos com Marcação (tag) | [Visualizar](./Laboratórios/Projeto%2021%20-%20Gerenciamento%20de%20Recursos%20com%20Marcação/README.md) |
 | **22** | **Otmizando a utilização** | Otmizando recursos | [Visualizar](./Laboratórios/Projeto%2022%20-%20Otmizando%20a%20utilização/README.md) |
+| **23** | **Automação com CloudFormation** | Orquestrando infraestrutura através do IaC | [Visualizar](./Laboratórios/Projeto%2023%20-%20Automação%20com%20CloudFormation/README.md) |
 
 
 
