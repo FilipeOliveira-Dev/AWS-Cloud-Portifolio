@@ -29,6 +29,7 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **14** | **Amazon VPC** | Configurar VPC, Tabela de Rotas e Sub-redes | [Visualizar](./Laboratórios/Projeto%2014%20-%20Configurar%20uma%20VPC/README.md) |
 | **15** | **Problemas na VPC** | Solucionar Problemas na VPC analizando logs | [Visualizar](./Laboratórios/Projeto%2015%20-%20Solucionar%20Problemas%20na%20VPC/README.md) |
 | **16** | **Trabalhando com EBS** | Criar, anexar, montar um volume EBS, trabalhando também com snapshot | [Visualizar](./Laboratórios/Projeto%2016%20-%20Trabalhando%20com%20EBS/README.md) |
+| **17** | **Gerenciando o Armazanamento** | Copiando arquivos de um EBS para um bucket S3 | [Visualizar](./Laboratórios/Projeto%2017%20-%20Gerenciando%20o%20Armazenamento/README.md) |
 
 
 
