@@ -31,6 +31,7 @@ Pela plataforma do Canvas, construi projetos práticos na AWS com foco em arquit
 | **16** | **Trabalhando com EBS** | Criar, anexar, montar um volume EBS, trabalhando também com snapshot | [Visualizar](./Laboratórios/Projeto%2016%20-%20Trabalhando%20com%20EBS/README.md) |
 | **17** | **Gerenciando o Armazanamento** | Copiando arquivos de um EBS para um bucket S3 | [Visualizar](./Laboratórios/Projeto%2017%20-%20Gerenciando%20o%20Armazenamento/README.md) |
 | **18** | **Trabalhar com S3** | Criando e configurando bucket S3 via CLI | [Visualizar](./Laboratórios/Projeto%2018%20-%20Trabalhar%20com%20S3/README.md) |
+| **19** | **Monitorando a Infraestrutura** | Monitorando a Infraestrutura com CloudWatch | [Visualizar](./Laboratórios/Projeto%2019%20-%20Monitorando%20a%20Infraestrutura/README.md) |
 
 
 
